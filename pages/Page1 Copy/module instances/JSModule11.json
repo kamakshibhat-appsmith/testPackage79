@@ -9,8 +9,15 @@
     "pageId": "Page1 Copy",
     "inputs": {},
     "jsonPathKeys": [],
-    "isValid": true,
-    "invalids": [],
+    "isValid": false,
+    "invalids": [
+      "Module instance does not have a valid module reference in the workspace. Please update the existing package \"Untitled Package 2\" with module JSModule1 to resolve this issue."
+    ],
+    "invalidState": {
+      "packageName": "Untitled Package 2",
+      "moduleName": "JSModule1",
+      "originPackageId": "660ec1c2790d823932105671"
+    },
     "userPermissions": []
   },
   "id": "Page1 Copy_JSModule11",

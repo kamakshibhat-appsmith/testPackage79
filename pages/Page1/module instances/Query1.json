@@ -10,8 +10,15 @@
     "inputs": {},
     "moduleInputs": {},
     "jsonPathKeys": [],
-    "isValid": true,
-    "invalids": [],
+    "isValid": false,
+    "invalids": [
+      "Module instance does not have a valid module reference in the workspace. Please update the existing package \"Untitled Package 1\" with module Query1Module to resolve this issue."
+    ],
+    "invalidState": {
+      "packageName": "Untitled Package 1",
+      "moduleName": "Query1Module",
+      "originPackageId": "660ec1ce790d82393210567b"
+    },
     "userPermissions": []
   },
   "id": "Page1_Query1",
